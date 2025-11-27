@@ -1,1 +1,22 @@
-/* Start coding here */
+body {
+    background-color: yellow;
+    border: 16px solid lightgrey;
+    margin: 0;
+    padding: 0;
+}
+
+.border-black {
+    height: 100vh;
+    border: 16px solid black;
+}
+
+.border-red {
+    border: 24px solid crimson;
+    height: 95vh;
+}
+
+p {
+    text-align: center;
+    font-size: 72px;
+    margin-top: 20px;
+}
